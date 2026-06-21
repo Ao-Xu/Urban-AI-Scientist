@@ -1,6 +1,6 @@
 # Urban AI Scientist
 <p align="center">
-  <img src="img1.png" alt="描述" width="70%" />
+  <img src="img1.png" alt="描述" width="90%" />
 </p>
 
 > **An autonomous AI research scientist for urban science - from topic to publication.**
@@ -9,7 +9,7 @@ Urban AI Scientist is an end-to-end automated research pipeline designed forthe 
 
 🌐 **Live Demo**: [https://cocoa-heap-turbulent.ngrok-free.dev](https://cocoa-heap-turbulent.ngrok-free.dev)
 
-> 💬 [中文文档 →](docs/README_zh.md)
+> 💬 [中文文档 →](./README_zh.md)
 
 ---
 
