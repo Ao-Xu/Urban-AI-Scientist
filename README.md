@@ -1,6 +1,6 @@
 # AI Urban Scientist
 <p align="center">
-  <img src="img1.png" alt="描述" width="90%" />
+  <img src="img1.png" alt="描述" width="100%" />
 </p>
 
 > **An autonomous AI research scientist for urban science - from topic to publication.**
