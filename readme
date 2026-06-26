@@ -1,0 +1,28 @@
+# Skill 优化近期研究文献综述
+
+调研日期：2026-06-10  
+范围说明：本文把“Skill 优化”界定为大模型智能体中的 Agent Skills / Codex Skills / Claude Agent Skills 等可复用技能工件的设计、生成、选择、压缩、演化、评测与治理。若把 Skill 理解为更宽泛的“能力学习”或传统强化学习中的 skill discovery，本文只纳入与 LLM agent 技能工件直接相关的部分。
+
+## 参考文献与资料
+
+1. Zhou et al. (2026). [A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2605.07358). arXiv.
+2. OpenAI Developers. [Agent Skills - Codex](https://developers.openai.com/codex/skills).
+3. OpenAI Cookbook. [Skills in OpenAI API](https://developers.openai.com/cookbook/examples/skills_in_api).
+4. Anthropic Docs. [Agent Skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview).
+5. Anthropic Engineering. [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills).
+6. Li et al. (2026). [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670). arXiv.
+7. Liang et al. (2026). [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448). arXiv.
+8. Trace2Skill team (2026). [Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158). arXiv.
+9. Alzubi et al. (2026). [EvoSkill: Automated Skill Discovery for Multi-Agent Systems](https://arxiv.org/abs/2603.02766). arXiv.
+10. Gao et al. (2026). [SkillReducer: Optimizing LLM Agent Skills for Token Efficiency](https://arxiv.org/abs/2603.29919). arXiv.
+11. Li et al. (2026). [SkillsInjector: Dynamic Skill Context Construction for LLM Agents](https://arxiv.org/abs/2605.29794). arXiv.
+12. Gong et al. (2026). [SkillMOO: Multi-Objective Optimization of Agent Skills for Software Engineering](https://arxiv.org/abs/2604.09297). arXiv.
+13. Yang et al. (2026). [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904). arXiv; project page: [microsoft.github.io/SkillOpt](https://microsoft.github.io/SkillOpt/).
+14. MASA team (2026). [Skill is Not One-Size-Fits-All: Model-Aware Skill Alignment for LLM Agents](https://arxiv.org/abs/2605.30723). arXiv.
+15. Pryzant et al. (2023). [Automatic Prompt Optimization with "Gradient Descent" and Beam Search](https://aclanthology.org/2023.emnlp-main.494/). EMNLP.
+16. Yang et al. (2023). [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409). arXiv.
+17. Yuksekgonul et al. (2024). [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496). arXiv.
+18. Agrawal et al. (2025). [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiv.org/abs/2507.19457). arXiv.
+19. Wang et al. (2023). [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291). arXiv.
+20. Wang et al. (2024). [Agent Workflow Memory](https://arxiv.org/abs/2409.07429). arXiv.
+
